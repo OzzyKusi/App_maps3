@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">App_maps3</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string-array name="tipos_restaurantes">
+        <item>Pizzerias</item>
+        <item>Pollerias</item>
+        <item>Comida Rapida</item>
+        <item>Restaurantes</item>
+        <item>Mercados</item>
+    </string-array>
+</resources>
